@@ -1,0 +1,70 @@
+.noneType{
+  list-style-type: none;
+}
+.blurred {
+    color: #808080; /* Set the text color to a shade of grey (for greyscale effect) */
+  }
+.stylelist{
+    list-style: none;
+}
+.checkBox{
+  /* padding: 0px; */
+  /* margin-left: 0px; */
+}
+.cardOutLine{
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 2px;
+}
+.cardHead{
+  background-color: white;
+  border: none;
+}
+hr {
+  border: none;
+  border-top: 2px dotted rgb(119, 117, 117);
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 100%;
+}
+.heading{
+  height: 30px;
+}
+h4{
+  text-align: left;
+  padding: 5px;
+  margin-left: 20px;
+}
+
+#rightshift {
+    list-style-type: none; 
+    padding-left: 20px; 
+  }
+#rightshiftli{
+    margin-bottom: 10px;
+  padding-left: 30px; 
+  background: url('./images/rightshiftt.png') no-repeat left center;
+  background-size: 16px; 
+  display: flex; 
+  align-items: center; 
+
+}
+/* .blue-text{
+    color: blue;
+} */
+
+.card {
+    height: 100%;
+  }
+
+.rowtwo-checkBox
+{
+    padding-left: 40px; 
+}
+.rowtwo-shiftr
+{
+    margin-bottom: 10px;
+    padding-left: 30px; 
+}
+

@@ -1,0 +1,41 @@
+.navBox{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+.left{
+    display: flex;
+    flex-direction: row;
+    
+}
+.right{
+    display: flex;
+    flex-direction: row;
+}
+.logoText{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+color: white;
+font-size: large;
+}
+
+input[type=text]{
+    border:1px solid gray;
+    background-color: #111827;    
+    padding-left: 30px;
+}
+
+.search{
+    background-color: #111827;
+    border: none;
+    color:white;
+}
+input[type=text]::placeholder{
+    opacity: 0.3;
+    color: white;
+}
+.blue-icon {
+    color: blue;
+}
+  
